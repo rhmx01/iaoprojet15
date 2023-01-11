@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hardware</string>
+    <string name="prise_de_photo">Prise de photo</string>
+    <string name="capture_video">Capture vidéo</string>
+    <string name="vibreur">Vibreur</string>
+    <string name="bluetooth">Bluetooth</string>
+</resources>
